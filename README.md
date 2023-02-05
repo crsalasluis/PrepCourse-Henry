@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio de pruebas curso2 de Henry
+prueba de como crear un repositorio y clonarlo desde gihut hasta nuestro escritorio
